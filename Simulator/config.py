@@ -1,4 +1,4 @@
 # API_URL = "http://127.0.0.1:5000"
-API_URL = "https://fleet-api-879451728640.europe-central2.run.app/"
+API_URL = "" # gcp url
 VEHICLE_COUNT = 3
 SEND_INTERVAL = 5
