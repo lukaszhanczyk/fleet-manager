@@ -1,0 +1,6 @@
+Flask==2.3.2
+firebase-admin==6.4.0
+gunicorn==21.2.0
+requests~=2.32.4
+google-cloud-storage
+protobuf~=6.31.1
